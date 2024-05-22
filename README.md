@@ -1,16 +1,23 @@
-## Hi there 👋
+# Santiago Romero - Student of: Multi-platform Applications Development at CFP Daniel Castelao
+ 
+## About me
 
-<!--
-**sromerodiaz-dc/sromerodiaz-dc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a young student whose passion goes from cyber security all the way to software development. 
+I finished my studies in Computer Network Systems Management and currently I find myself learning Multi-platform Applications Development from which I will be adquiring the following knowledge:
 
-Here are some ideas to get you started:
+- Project on Multi-platform Applications Development
+- Development Environments
+- Programming
+- Databases
+- Multimedia Programming and Mobile Devices
+- Services and Processes Programming, etc...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming Languages: Java, Python, XML, CSS, Bash, PHP.
+
+## Contact me!
+
+If you are interested I would love you to contact me for anything!
+
+- - Mail: sromerodiaz.work@gmail.com
