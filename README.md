@@ -1,4 +1,4 @@
-# Santiago Romero - Student of: Multi-platform Applications Development at CFP Daniel Castelao
+## Santiago Romero - Student of: Multi-platform Applications Development at CFP Daniel Castelao
 
 ## About me
 
