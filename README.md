@@ -1,9 +1,9 @@
 # Santiago Romero - Student of: Multi-platform Applications Development at CFP Daniel Castelao
 ## About me
 
-I am a young student with a passion for both cybersecurity and software development. 
+I am a young student with a passion for both cybersecurity and software development.
 
-I finished my studies in Computer Network Systems Management and am currently learning Multi-platform Applications Development, from which I will be acquiring the following knowledge:
+I have completed my studies in Computer Network Systems Management and am currently learning Multi-platform Applications Development. From this, I will be acquiring the following knowledge:
 
 - Project on Multi-platform Applications Development
 - Development Environments
