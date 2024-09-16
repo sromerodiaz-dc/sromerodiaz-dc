@@ -18,6 +18,6 @@ I finished my studies in Computer Network Systems Management and am currently le
 
 ## Contact me!
 
-If you are interested, I would love for you to contact me for anything!
+If you're interested, I would love for you to reach out to me about anything!
 
 - Email: sromerodiaz.work@gmail.com
